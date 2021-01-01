@@ -68,3 +68,44 @@ input {
 .movie_text span {
     color: #ff7700;
 }
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+#actor {
+    height: 400px;
+    width: 1000px;
+}
+
+#principle {
+    height: 400px;
+    width: 1000px;
+}
+#trustee {
+    height: 400px;
+    width: 1000px;
+}
+.modal-title {
+    color: black;
+}
+
+.p_modal {
+    color: black;
+}
